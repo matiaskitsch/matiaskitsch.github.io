@@ -4,10 +4,10 @@
     <title>MATÍAS KITSCH</title>
     <description>Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 </description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Apr 2020 22:12:19 -0400</pubDate>
-    <lastBuildDate>Sat, 11 Apr 2020 22:12:19 -0400</lastBuildDate>
+    <link>https://matiaskitsch.github.io</link>
+    <atom:link href="https://matiaskitsch.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 11 Apr 2020 22:21:01 -0400</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2020 22:21:01 -0400</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -49,8 +49,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 02 Jan 2020 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2020/01/02/viernes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/02/viernes/</guid>
+        <link>https://matiaskitsch.github.io/2020/01/02/viernes/</link>
+        <guid isPermaLink="true">https://matiaskitsch.github.io/2020/01/02/viernes/</guid>
         
         <category>Contenido</category>
         
@@ -62,8 +62,8 @@
         <description>&lt;p&gt;aaaaaaaaaaaaaaaaaaaaaaaaaaa&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2020 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2020/01/01/kkjlgm/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/01/01/kkjlgm/</guid>
+        <link>https://matiaskitsch.github.io/2020/01/01/kkjlgm/</link>
+        <guid isPermaLink="true">https://matiaskitsch.github.io/2020/01/01/kkjlgm/</guid>
         
         <category>Prensa</category>
         
@@ -77,8 +77,8 @@
 &lt;p&gt;&lt;strong&gt;Cuatro cuentos componen la colección&lt;/strong&gt;. El primero relata la llegada de Andrés a Santiago desde Puerto Saavedra tras haber terminado con Fernanda. Al llegar, comienza a nevar y algo increíble ocurre con el cielo. El segundo cuento, relata el viaje de Campbell en un cohete construido con planos descargados de internet, en su propia cochera. El recuerdo de su novio muerto lo motiva a escapar del planeta. El tercer y cuarto cuento, respectivamente, relatan el baile y el abuso mezclados en una fiesta, en donde los personajes no son capaces de comunicarse entre sí y la historia de una fábrica de cabello y cabezas, a través de las herencias sucesivas en las generaciones de la familia que la administra.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2019 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2019/01/01/jlgm/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/01/01/jlgm/</guid>
+        <link>https://matiaskitsch.github.io/2019/01/01/jlgm/</link>
+        <guid isPermaLink="true">https://matiaskitsch.github.io/2019/01/01/jlgm/</guid>
         
         <category>Contenido</category>
         
@@ -121,8 +121,8 @@ fotoooos
 --&gt;
 </description>
         <pubDate>Mon, 01 Jan 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2018/01/01/carnavas-nada-es-absoluto/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/01/carnavas-nada-es-absoluto/</guid>
+        <link>https://matiaskitsch.github.io/2018/01/01/carnavas-nada-es-absoluto/</link>
+        <guid isPermaLink="true">https://matiaskitsch.github.io/2018/01/01/carnavas-nada-es-absoluto/</guid>
         
         <category>Contenido</category>
         
@@ -138,8 +138,8 @@ fotoooos
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KgauvZJrDvY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Fri, 01 Jan 2016 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2016/01/01/w01-Epkot/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/01/01/w01-Epkot/</guid>
+        <link>https://matiaskitsch.github.io/2016/01/01/w01-Epkot/</link>
+        <guid isPermaLink="true">https://matiaskitsch.github.io/2016/01/01/w01-Epkot/</guid>
         
         <category>Contenido</category>
         
@@ -157,8 +157,8 @@ fotoooos
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/77Ke6J99KWA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 01 Jan 2013 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2013/01/01/tso-about-all-of-this-things/</link>
-        <guid isPermaLink="true">http://localhost:4000/2013/01/01/tso-about-all-of-this-things/</guid>
+        <link>https://matiaskitsch.github.io/2013/01/01/tso-about-all-of-this-things/</link>
+        <guid isPermaLink="true">https://matiaskitsch.github.io/2013/01/01/tso-about-all-of-this-things/</guid>
         
         <category>Contenido</category>
         
